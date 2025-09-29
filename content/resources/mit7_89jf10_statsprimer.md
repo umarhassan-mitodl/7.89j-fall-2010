@@ -4,6 +4,8 @@ description: Background reading on probability and statistics.
 file: /courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/94e4f291339c748a7516257c457a0ce7_MIT7_89JF10_statsprimer.pdf
 file_size: 5430474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
