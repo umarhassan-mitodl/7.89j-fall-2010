@@ -3,8 +3,6 @@ content_type: page
 description: This section provides descriptions, instructions, and guidelines for
   the course assignments.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,13 +26,13 @@ Written assignments 2 and 3 will be geared towards practicing the writing of res
 1. if successful, it can lead to funding to support your research, and can be a strong addition to your resume;
 2. it can help you to think critically and creatively about possible research directions in a particular field, and to plan your own research efforts.
 
-Even if not submitted to a funding agency or submitted but not funded, writing a graduate fellowship proposal is also good practice for future writing of postdoc fellowship and research grant applications, etc. For this exercise, students will follow the guidelines of the [National Science Foundation Graduate Research Fellowship Program](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf10604) (GRFP), one of the major sources of fellowships for American graduate students in the sciences and engineering, awarding about 2,000 fellowships annually (for a three-year term), with due dates in early November. Although this program is only available to "beginning" graduate students (normally interpreted as prospective or first-year at the time of application, though some exceptions apply) who are US nationals, a variety of international fellowship programs have similar application requirements.
+Even if not submitted to a funding agency or submitted but not funded, writing a graduate fellowship proposal is also good practice for future writing of postdoc fellowship and research grant applications, etc. For this exercise, students will follow the guidelines of the {{% resource_link "3de551e7-f29a-44d3-be49-96b4775b2cf8" "National Science Foundation Graduate Research Fellowship Program" %}} (GRFP), one of the major sources of fellowships for American graduate students in the sciences and engineering, awarding about 2,000 fellowships annually (for a three-year term), with due dates in early November. Although this program is only available to "beginning" graduate students (normally interpreted as prospective or first-year at the time of application, though some exceptions apply) who are US nationals, a variety of international fellowship programs have similar application requirements.
 
 Three 2-page essays form the core of an NSF GRFP application: a Personal Statement, a Previous Research Experience essay, and a Proposed Plan of Research (PPR) essay. We will focus on the PPR in this course.
 
-As background, links to the "Program Announcement" and "Applicant User Guide" are available on the left hand side of the [FastLane](https://www.fastlane.nsf.gov/grfp/Login.do) Graduate Research Fellowship Program (GRFP) web site.
+As background, links to the "Program Announcement" and "Applicant User Guide" are available on the left hand side of the {{% resource_link "ccec8f1c-dec2-4719-a8f2-5e2846e482ad" "FastLane" %}} Graduate Research Fellowship Program (GRFP) web site.
 
-For general advice on preparing an NSF predoctoral fellowship proposal, you may also want to take a look at the [Guide to applying for the NSF predoctoral fellowship](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grfp), developed at Johns Hopkins.
+For general advice on preparing an NSF predoctoral fellowship proposal, you may also want to take a look at the {{% resource_link "d237d3d9-92a6-4532-a2b4-ebf6ecafb88c" "Guide to applying for the NSF predoctoral fellowship" %}}, developed at Johns Hopkins.
 
 ## Written Assignment 2, Due Week #3: Initial Idea for Graduate Research Fellowship Proposal
 
@@ -77,7 +75,7 @@ References
 
 This assignment is to write a proposal following the NSF instructions exactly, including both length and formatting guidelines (which are invariably present in proposal instructions and serve to level the playing field between applications and make it easier for reviewers to read the applications). One additional requirement is that you must include at least one (but not more than three) specific aims in your proposal, at an appropriate place (i.e. after your hypothesis). Your aim(s) should be in bold type, and your hypothesis sentence should be in italics.
 
-NSF instructions related to the PPR Essay can be found in the [Applicant User Guide](https://www.fastlane.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/fastlane_help.htm#2_getting_access1.htm) within the FastLane website (click on Prepare Application under the Applicant User Guide, and scroll down to the Proposed Plan of Research section).
+NSF instructions related to the PPR Essay can be found in the {{% resource_link "1edda8f6-49fe-466c-8ddc-8bac915d29b7" "Applicant User Guide" %}} within the FastLane website (click on Prepare Application under the Applicant User Guide, and scroll down to the Proposed Plan of Research section).
 
 The formatting instructions are as follows:
 
@@ -89,7 +87,7 @@ The formatting instructions are as follows:
 
 **General instructions/advice**. Think of a topic that interests you and develop a hypothesis related to this topic and a specific aim addressing your hypothesis that could be tested during the course of your Ph.D. You may use the papers we have read or will read in the class for inspiration, but if you prefer to choose a different topic, that is fine too. It is also recommended (but not required) that you choose a topic that you are genuinely interested in pursuing or are thinking seriously about pursuing during your Ph.D. You may use the same or a similar idea as you proposed in your assignment due 9/24, or a different idea. Choose the idea you feel most strongly about.
 
-For reference, students should also read the [NSF Merit Review Criteria](http://www.nsf.gov/pubs/2010/nsf10604/nsf10604.htm#reviewcrit).
+For reference, students should also read the {{% resource_link "15d3b9e1-1063-4d95-a82c-4463f7e6aec7" "NSF Merit Review Criteria" %}}.
 
 **Additional advice**.
 
@@ -109,12 +107,12 @@ is better than
 
 1\. Smith and Jones. "Rates of Common Cancers." *Cancer Research* 12, (2002): 347-392.
 
-Another fellowship that may be of interest to students is the Krell Institute/DOE "Computational Sciences Graduate Fellowship" ([CSGF](http://www.krellinst.org/csgf/))
+Another fellowship that may be of interest to students is the Krell Institute/DOE "Computational Sciences Graduate Fellowship" ({{% resource_link "db7a4b4c-98f5-4037-a77b-7e3013235a66" "CSGF" %}})
 
 ## Written Assignment 4, Due Week #7: Writing Assignment — Compare and Contrast
 
-**Paper 1**. Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. "[Network Motifs in the Transcriptional Regulation Network of *Escherichia Coli*.](http://www.ncbi.nlm.nih.gov/pubmed/11967538)" *Nature Genetics* 31 (2002): 64-68.
+**Paper 1**. Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. "{{% resource_link "736e0c8f-7555-4275-a6c2-f4fe2151e3b1" "Network Motifs in the Transcriptional Regulation Network of *Escherichia Coli*." %}}" *Nature Genetics* 31 (2002): 64-68.
 
-**Paper 2**. Ma, W., A. Trusina, H. El-Samad, W. A. Lim, and C. Tang. "[Defining Network Topologies that Can Achieve Biochemical Adaptation.](http://www.cell.com/abstract/S0092-8674%2809%2900712-0)" *Cell* 138 (2009): 760-73.
+**Paper 2**. Ma, W., A. Trusina, H. El-Samad, W. A. Lim, and C. Tang. "{{% resource_link "2edd5ccf-255c-4345-89e9-dc1d75228613" "Defining Network Topologies that Can Achieve Biochemical Adaptation." %}}" *Cell* 138 (2009): 760-73.
 
 The papers for Week 7 introduce and discuss the concept of "network motifs". The first paper draws a parallel to the concept of "sequence motifs" from computational and molecular biology. In a short essay 1-2 double-spaced pages in length, compare and contrast these two concepts and their biological and practical significance, mentioning specific examples of each type of motif. Be sure to precisely define both concepts at an appropriate place.
