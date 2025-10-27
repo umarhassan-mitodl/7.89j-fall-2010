@@ -5,8 +5,6 @@ description: Tips on reading papers and leading a discussion about a paper for t
 file: /courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/8e4e93c0f2a448dcc457437902a553ea_MIT7_89JF10_Notes_on_Read.pdf
 file_size: 44022
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

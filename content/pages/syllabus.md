@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks, format, homework and grading, and the
   schedule of lecture topics, instructors, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +17,7 @@ Lectures: 1 session / week, 2 hours / session
 Prerequisites
 -------------
 
-First-year [CSB Ph.D. student](https://csbphd.mit.edu/) or permission of instructor.
+First-year {{% resource_link "732f45da-7677-4cad-b5a1-8438e0c516b4" "CSB Ph.D. student" %}} or permission of instructor.
 
 Course Description
 ------------------

@@ -32,8 +32,7 @@
     "website": "7-89j-topics-in-computational-and-systems-biology-fall-2010"
   },
   "course_title": "Topics in Computational and Systems Biology",
-  "hide_download": true,
-  "course_description": "This is a seminar based on research literature. Papers covered are selected to illustrate important problems and approaches in the field of computational and systems biology, and provide students a framework from which to evaluate new developments.\n\nThe MIT Initiative in Computational and Systems Biology ([CSBi](http://csbi.mit.edu/)) is a campus-wide research and education program that links biology, engineering, and computer science in a multidisciplinary approach to the systematic analysis and modeling of complex biological phenomena. This course is one of a series of core subjects offered through the CSB Ph.D. program, for students with an interest in interdisciplinary training and research in the area of computational and systems biology.\n",
+  "course_description": "This is a seminar based on research literature. Papers covered are selected to illustrate important problems and approaches in the field of computational and systems biology, and provide students a framework from which to evaluate new developments.\n\nThe MIT Initiative in Computational and Systems Biology ({{% resource_link \"7586fb55-7034-407e-b6b0-178c900b1b71\" \"CSBi\" %}}) is a campus-wide research and education program that links biology, engineering, and computer science in a multidisciplinary approach to the systematic analysis and modeling of complex biological phenomena. This course is one of a series of core subjects offered through the CSB Ph.D. program, for students with an interest in interdisciplinary training and research in the area of computational and systems biology.\n",
   "department_numbers": [
     "7"
   ],
@@ -43,7 +42,6 @@
     "content": "0103be34-008f-fed3-463e-f1517311c2f6",
     "website": "7-89j-topics-in-computational-and-systems-biology-fall-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "4ac79566-885d-4d52-a3df-a30c9bd6e376",
   "site_short_id": "7.89j-fall-2010",
